@@ -1,0 +1,25 @@
+{
+  "name": "pssl",
+  "version": "1.0.0",
+  "description": "Powerful string shuffle & unshuffle library.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/I2rys/pssl"
+  },
+  "keywords": [
+    "shuffler",
+    "unshuffler",
+    "powerful",
+    "string",
+    "cryptography"
+  ],
+  "author": "I2rys",
+  "license": "MIT"
+}
